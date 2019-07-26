@@ -1,0 +1,61 @@
+body{
+
+}
+
+.firstRow{
+    background-color: lightgray;
+    width: 100%;
+    height: 100px;  
+    padding: 10px;
+}
+
+.smallBlue{
+    background-color: aqua;
+    height: 95%;
+    width: 100px;
+    
+}
+
+.textBox{
+    /* background-color: gold; */
+    width: 100%;
+    height: 275px;
+}
+
+.theText{
+    float: center;
+
+}
+
+
+.secondRow{
+    background-color: blue;
+    width: 100%;
+    height: 100px;  
+    padding: 10px;
+}
+.thirdRow{
+    background-color: teal;
+    width: 100%;
+    height: 100px;  
+    padding: 10px;
+}
+.thirdRow{
+    background-color: green;
+    width: 100%;
+    height: 100px;  
+    padding: 10px;
+}
+
+.forthRow{
+    background-color: brown;
+    width: 100%;
+    height: 100px;  
+    padding: 10px;
+}
+.fifthRow{
+    background-color: red;
+    width: 100%;
+    height: 100px;  
+    padding: 10px;
+}

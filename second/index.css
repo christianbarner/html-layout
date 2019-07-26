@@ -1,0 +1,103 @@
+
+.firstClass{
+    border: 5px solid black;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box ;
+  }
+
+.purpleBar {
+    background-color: purple;
+    height: 150px;
+    width: 50px;
+    display: inline-block;
+  }
+
+.greenBox {
+    background-color: green;
+    height: 200px;
+    width: 400px;
+    margin: 0 50px;
+    display: inline-block;
+}
+
+.blueCircle {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .secondClass {
+    border: 5px dotted black;
+    width: 100%;
+    padding: 50px;
+    margin-top: 25px; 
+    box-sizing: border-box ;
+}
+
+.yellowBox {
+    background-color: lemonchiffon;
+    width: 100%;
+    height: 200px;
+  
+    /* ?!?! */
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.thirdClass {
+    background-color: white;
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 100px;
+    box-sizing: border-box ;
+    margin: 25px auto; 
+    /* ?!?! */
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.thirdClass > h1 {
+    color: navy;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 10px;
+    font: 
+}  
+
+/* /* body {
+    margin: 0;
+    padding: 25px;
+  }
+
+
+/* .firstClass{
+    
+    border-width: 5px;
+    border-style: solid;
+    height: 20vh;
+    width: 95vw;
+    padding: 10px;
+
+} */
+
+
+/* .purpleBar{
+    margin-top: 25px;
+    width: 4%;
+    height: 80%;
+    background-color: blueviolet;
+} */
+
+
+/* .greenBox{
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    display: inline-block; 
+    margin: 0 50;
+} */
